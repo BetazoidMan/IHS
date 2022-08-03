@@ -28,6 +28,7 @@ Usage:
     If setting is chosen, the device must have the "Key" USB in place in order to log in. 
     Optional: System will log out after a user-selected amount of time without the key in place. 
     Also helpful for people who simply want help fighting computer addictions. 
+    "Religious Superior" Password to override. 
 April Fools: 
   Sounds all become MIDI piano of bad new church songs. 
   All art becomes modern art. 
