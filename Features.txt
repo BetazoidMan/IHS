@@ -23,3 +23,6 @@ Usage:
   "Key" system for religious communities or families 
     If setting is chosen, the device must have the "Key" USB in place in order to log in. 
     Also helpful for people who simply want help fighting computer addictions. 
+April Fools: 
+  Sounds all become MIDI piano
+  All art becomes modern art. 
