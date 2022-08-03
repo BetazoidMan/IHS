@@ -7,5 +7,7 @@ Calendar
   Can use Roman calendar, Paul VI calendar, or Eastern Calendar. 
   Automatic warnings for Holy Days of Obligation. 
 Internet
-  The user must choose on install either a whitelist or a blacklist to filter domains?
-  "Religious Superior" mode to be able to check webpages to see if they are alright? 
+  The user must choose on install either a whitelist or a blacklist to filter domains
+  Whitelist mode: "Religious Superior" mode to be able to check webpages to see if they are alright? 
+    Blacklist domains are never permitted, even in "Religious Superior" mode. 
+    
