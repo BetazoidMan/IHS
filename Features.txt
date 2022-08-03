@@ -12,6 +12,8 @@ Calendar:
   Can use Roman calendar, Paul VI calendar, or Eastern Calendar. 
   Automatic warnings for Holy Days of Obligation, days of penance, and days of fasting.
   Angelus notifications.
+  Liturgical hours notifications. 
+    Scheduler allows you to set your times and warns you if they do not fulfill a cleric's obligation. 
 Internet: 
   The user must choose, at the time of install, either a whitelist or a blacklist to filter domains.
   Whitelist mode: Includes "Religious Superior" mode to be able to check webpages to see if they are alright
