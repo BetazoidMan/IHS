@@ -15,3 +15,4 @@ Internet:
 Music: 
   Comes pre-installed with GregorioTeX. 
   Uses GregoBase and/or Chant tools to automatically make booklets. 
+  Integrates already-existing playback-tools for practicing. 
