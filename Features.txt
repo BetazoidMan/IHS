@@ -10,10 +10,12 @@ Calendar:
   Automatic warnings for Holy Days of Obligation, days of penance, and days of fasting. 
   CERULEAN BLUE for Marian feasts. 
 Internet: 
-  The user must choose on install either a whitelist or a blacklist to filter domains
+  The user must choose, at the time of install, either a whitelist or a blacklist to filter domains.
   Whitelist mode: "Religious Superior" mode to be able to check webpages to see if they are alright? 
     Blacklist domains are never permitted, even in "Religious Superior" mode. 
 Music: 
   Comes pre-installed with GregorioTeX. 
   Uses GregoBase and/or Chant tools to automatically make booklets. 
   Integrates already-existing playback-tools for practicing. 
+Usage: 
+  Includes customizable usage limiter. 
