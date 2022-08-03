@@ -7,6 +7,7 @@ Divine Office:
   Include DivinumOfficium.com's backend for offline access. 
   Include iframe of ibreviary.org or work with them to include offline version. 
   Use DivinumOfficium, GregoBase, and Chant Tools to create chant booklets for the Divine Office. 
+  "Do Not Disturb" Mode
 Calendar: 
   Can use Roman calendar, Paul VI calendar, or Eastern Calendar. 
   Automatic warnings for Holy Days of Obligation, days of penance, and days of fasting.
