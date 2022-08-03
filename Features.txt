@@ -19,5 +19,6 @@ Music:
   Integrates already-existing playback-tools for practicing. 
 Usage: 
   Includes customizable usage limiter. 
-  "Key" system for religious communities? 
+  "Key" system for religious communities or families 
     The device must have the "Key" USB in place in order to log in. 
+    Also helpful for people who simply want help fighting computer addictions. 
