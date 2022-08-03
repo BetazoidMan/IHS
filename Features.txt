@@ -12,7 +12,7 @@ Calendar:
   Automatic warnings for Holy Days of Obligation, days of penance, and days of fasting.
 Internet: 
   The user must choose, at the time of install, either a whitelist or a blacklist to filter domains.
-  Whitelist mode: "Religious Superior" mode to be able to check webpages to see if they are alright
+  Whitelist mode: Includes "Religious Superior" mode to be able to check webpages to see if they are alright
     Blacklist domains are never permitted, even in "Religious Superior" mode. 
 Music: 
   Comes pre-installed with GregorioTeX. 
