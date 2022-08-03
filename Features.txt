@@ -1,13 +1,17 @@
 System Sounds: 
   All Voice or Organ
-Divine Office
+System Sights: 
+  System uses the calendar that the user chooses to theme the background, window bars, etc. 
+Divine Office: 
   Include DivinumOfficium.com's backend. 
   Include iframe of ibreviary.org or work with them to include offline version. 
-Calendar
+Calendar: 
   Can use Roman calendar, Paul VI calendar, or Eastern Calendar. 
-  Automatic warnings for Holy Days of Obligation. 
-Internet
+  Automatic warnings for Holy Days of Obligation, days of penance, and days of fasting. 
+Internet: 
   The user must choose on install either a whitelist or a blacklist to filter domains
   Whitelist mode: "Religious Superior" mode to be able to check webpages to see if they are alright? 
     Blacklist domains are never permitted, even in "Religious Superior" mode. 
-    
+Music: 
+  Comes pre-installed with GregorioTeX. 
+  Uses GregoBase and/or Chant tools to automatically make booklets. 
