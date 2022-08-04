@@ -2,7 +2,8 @@ System Sounds:
   All Voice or Organ
 System Sights: 
   System uses the calendar that the user chooses to theme the background, window bars, etc.  
-  CERULEAN BLUE for Marian feasts. 
+  CERULEAN BLUE for Marian feasts.
+  Catholic-themed icons (or at least in accordance with beauty). 
 Divine Office: 
   Include DivinumOfficium.com's backend for offline access. 
   Include iframe of ibreviary.org or work with them to include offline version. 
