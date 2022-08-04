@@ -15,6 +15,7 @@ Calendar:
   Angelus notifications.
   Liturgical hours notifications. 
     Scheduler allows you to set your times and warns you if they do not fulfill a cleric's obligation. 
+      E.g. Lauds before midnight or vespers after midnight. 
   Confession reminder. 
   Mass intention manager?
 Internet: 
