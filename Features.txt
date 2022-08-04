@@ -19,7 +19,6 @@ Internet:
   The user must choose, at the time of install, either a whitelist or a blacklist to filter domains.
   Whitelist mode: Includes "Religious Superior" mode to be able to check webpages to see if they are alright
     Blacklist domains are never permitted, even in "Religious Superior" mode. 
-  Automated Catholic news?
 Music: 
   Comes pre-installed with GregorioTeX. 
   Uses GregoBase and/or Chant tools to automatically make booklets for Mass. 
