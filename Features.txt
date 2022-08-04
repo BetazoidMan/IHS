@@ -35,6 +35,7 @@ Usage:
     "Religious Superior" Password to override.
   "Family" mode. 
     Husband and wife need each other's passwords to override usage limiter etc. Kids need either's password. 
+    Also could work for an abbot, prior, and monks, or something similar. 
 April Fools: 
   Sounds all become MIDI piano of bad new church songs. 
   All art becomes modern art. 
