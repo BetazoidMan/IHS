@@ -10,16 +10,16 @@ Divine Office:
   "Do Not Disturb" Mode with full screen
 Calendar: 
   Can use Roman calendar, Paul VI calendar, or Eastern Calendar. 
-  Automatic warnings for Holy Days of Obligation, days of penance, and days of fasting.
+  Automatic warnings for Holy Days of Obligation, days of penance, days of fasting, and days of indulgences.
   Angelus notifications.
   Liturgical hours notifications. 
     Scheduler allows you to set your times and warns you if they do not fulfill a cleric's obligation. 
   Confession reminder. 
-  Indulgences reminder. 
 Internet: 
   The user must choose, at the time of install, either a whitelist or a blacklist to filter domains.
   Whitelist mode: Includes "Religious Superior" mode to be able to check webpages to see if they are alright
     Blacklist domains are never permitted, even in "Religious Superior" mode. 
+  Automated Catholic news?
 Music: 
   Comes pre-installed with GregorioTeX. 
   Uses GregoBase and/or Chant tools to automatically make booklets for Mass. 
