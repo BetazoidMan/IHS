@@ -30,8 +30,8 @@ Usage:
     Optional: System will log out after a user-selected amount of time without the key in place. 
     Also helpful for people who simply want help fighting computer addictions. 
     "Religious Superior" Password to override.
-  Husband, wife, and kids password. 
-    H and W need each other's passwords to override usage limiter etc. Kids need either's password. 
+  "Family" mode. 
+    Husband and wife need each other's passwords to override usage limiter etc. Kids need either's password. 
 April Fools: 
   Sounds all become MIDI piano of bad new church songs. 
   All art becomes modern art. 
